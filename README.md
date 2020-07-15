@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/gmgilson/gmgilson.svg)](http://hits.dwyl.com/gmgilson/gmgilson)
 ## Hi there, Im Grant!👋
 
 I am a 3rd Year Undergraduate Computer Science student at the University of California Davis
