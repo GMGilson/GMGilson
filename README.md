@@ -1,6 +1,5 @@
 ## Hi there, Im Grant!👋
 
-I am a 3rd Year Undergraduate Computer Science student at the University of California Davis
 
 ### Contact and learn more about me
 <a href="mailto:grantmaingilson@gmail.com">
